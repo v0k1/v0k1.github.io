@@ -1,12 +1,26 @@
-h1{
+.wraps {
+	background-color: #FFFFFF;
+	font-family: "Times";
+	}
+h1 {
   text-align: center;
   }
-p{
+p {
   text-align: center;
   }
-img{
+p >a{
+	text-align: center;
+	text-decoration: none;
+	}
+a:hover{
+	font-size: 1.2em;
+	color:#f7a965;
+	}
+img {
   display: block;
   margin: auto;
-  width: 50%;
-  height: 70%;
+  width: 20%;
   }
+img:hover{
+	width: 50%;
+	}
