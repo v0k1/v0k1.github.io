@@ -3,6 +3,7 @@ var doc = document.getElementById("test");
   doc.style.color = "Red";
   doc.style.fontSize = "30px";
 
+/* Colorchanger by ?
 function time(){
     var today = new Date();
     var h = today.getHours()
@@ -25,6 +26,7 @@ function checkTime(i) {
 }
 
 time();
+*/
 
 /* SideBar from W3
 function sb_open() {
